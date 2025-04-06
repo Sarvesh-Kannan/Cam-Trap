@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# Except for the essential Python files
+!wildlife_safety_protocol.py
+!inference_to_cvai.py
+!explainable_ai.py
+!cvai.py
+!xai_inference_example.py
+
+# Essential model and data files
+!wildlife_classifier_best.pth
+!class_mapping.json
+
+# Also include gitignore itself and README
+!.gitignore
+!README.md
+
+# Ignore all output directories
+*_report/
+*_report_*/ 
