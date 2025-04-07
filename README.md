@@ -1,6 +1,8 @@
 # Wildlife Classification System with Explainable AI and Report Generation
 
-This system combines deep learning-based wildlife classification with explainable AI visualizations and comprehensive reporting. It's designed for wildlife monitoring via camera traps and creates detailed reports for forest officers. Missouri Camera Traps LILA BC[https://lila.science/datasets/missouricameratraps?utm_source=chatgpt.com]
+This system combines deep learning-based wildlife classification with explainable AI visualizations and comprehensive reporting. It's designed for wildlife monitoring via camera traps and creates detailed reports for forest officers. [Missouri Camera Traps LILA BC] (https://lila.science/datasets/missouricameratraps?utm_source=chatgpt.com)
+
+
 
 ## Features
 
